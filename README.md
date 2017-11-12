@@ -1,0 +1,2 @@
+# Cryprocurrency course 
+scrooge-coin
